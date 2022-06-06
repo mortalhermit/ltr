@@ -1,1 +1,1 @@
-- Try DDPG on Mountain Car: https://colab.research.google.com/github/MrSyee/pg-is-all-you-need/blob/master/03.DDPG.ipynb#scrollTo=yWHQcbQXZhZK
+- Tried DDPG, didn't converge on Bipedal. It'll be a nice exercise to get it to do so.
