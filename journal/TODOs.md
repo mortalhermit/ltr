@@ -1,1 +1,2 @@
 - Tried DDPG, didn't converge on Bipedal. It'll be a nice exercise to get it to do so.
+- Try PPO on a Bipedal Walker. Then, one of these should definitely converge somehow.
